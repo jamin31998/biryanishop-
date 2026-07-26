@@ -6,13 +6,13 @@
    ==================================================== */
 
 const BUSINESS = {
-  shopName: "YOUR SHOP NAME",
-  tagline: "YOUR TAGLINE",
+  shopName: "Bombay Zaika Biryani",
+  tagline: "Biryani is not just food. It's an emotion.",
 
-  phone: "YOUR PHONE NUMBER",        // Example: "+91 90000 00000"
-  whatsapp: "YOUR WHATSAPP NUMBER",  // Digits only with country code, example: "919000000000"
+  phone: "+91 73640 90450",        // Example: "+91 90000 00000"
+  whatsapp: "917364090450",  // Digits only with country code, example: "919000000000"
 
-  address: "YOUR ADDRESS",
+  address: "Hajipadra, Benia Gram, Farakka, West Bengal 742212",
   googleMapLink: "YOUR GOOGLE MAP LINK",
 
   openingHours: [
