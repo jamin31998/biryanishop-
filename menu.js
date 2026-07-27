@@ -18,7 +18,7 @@ const MENU_ITEMS = [
     id: "beef-biryani",
     name: "Beef Biryani",
     image: "images/beef-biryani.jpg",
-    price: 0, // Replace 0 with your real price, example: 220
+    price: 110, // Replace 0 with your real price, example: 220
     description: "Slow dum-cooked basmati rice layered with tender beef and warm spices.",
     availability: "available",
   },
@@ -26,7 +26,7 @@ const MENU_ITEMS = [
     id: "litti",
     name: "Litti",
     image: "images/litti.jpg",
-    price: 0, // Replace 0 with your real price, example: 60
+    price: 10, // Replace 0 with your real price, example: 60
     description: "Roasted wheat dumplings stuffed with sattu, served with ghee and chokha.",
     availability: "available",
   },
